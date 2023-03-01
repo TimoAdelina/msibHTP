@@ -1,5 +1,5 @@
 Rincin Materi Pelatihan 
-1.HTML dan CSS
+1.WEB DESIGN
 2.JS
 3.GITHUB
 4.PHP
@@ -7,3 +7,4 @@ Rincin Materi Pelatihan
 6.PHP dan MYSQL
 7.LARAVEL
 8.REST API
+9.FINAL PROJECT
